@@ -5,3 +5,5 @@ def square_array(array)
   nums.each do |num|
      new.push #{num}**2
 end
+
+square_array(new)
