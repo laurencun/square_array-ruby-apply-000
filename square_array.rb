@@ -6,4 +6,5 @@ def square_array(array)
      new.push #{num}**2
 end
 
+square_array(nums)
 square_array(new)
